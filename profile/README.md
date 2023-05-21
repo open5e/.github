@@ -5,15 +5,24 @@ Open5e is a community-driven project focused on making D&D accessible, open, and
 ## Get Involved
 
 The best way to get involved is to [join our discord](https://discord.gg/9RNE2rY)
+
 You can also check out our [current roadmap](https://github.com/orgs/open5e/projects/5), which has our high-level goals laid out.
 
-All contributions are welcome, but you'll find it easiest to contribute if you're familiar with one of the following areas:
+
+## Contribution Guidelines
+
+All contributors are welcome, but you'll find it easiest to contribute if you're familiar with one of the following areas:
 
 - **Python/Django.** This is the framework for [our API](https://github.com/open5e/open5e-api).
 - **VueJS.** This is the framework for [our website](https://github.com/open5e/open5e). React or Angular experience will also serve you well here!
 - **JSON.** Our data is stored as a set of JSON files. You don't need to be an expert, but currently you need some comfort with JSON to contribute data.
-- **Blender, Photoshop, or art skills.** Creating artwork to support our data is a major ongoing project.
+- **Blender, Photoshop, or or art skills.** Creating artwork to support our data is a major ongoing project.
 - **Writing.** There's a lot of non-SRD content we could backfill, but we're not all writers.
+
+Take a look around at issues in areas you're comfortable with, hop on the discord! Many issues are tagged with `help-wanted` and `good first issue`. You'll find these particularly approachable or interesting.
+
+When you're ready to submit an issue, we do all PRs against `staging` branches, which auto-deploy to test environments. We make regular cuts over to production once we're comfortable with what's there.
+
 
 ## Our Priciples
 
