@@ -28,7 +28,7 @@ When you're ready to submit an issue, we do all PRs against `staging` branches, 
 
 **Open5e is Open.** Everything we create should be available for others to use as they see fit. To that end, we should only include content that can be licensed for commercial use, or that we own. Our licenses should be similarly open, pulling from copyleft and open source movements.
 
-**Open5e is accessible.** There should be as few hurdles to accessing the content and site as possible. No paywalls, no pop-ups, no ads eating up all your bandwidth. 
+**Open5e is accessible.** There should be as few hurdles to accessing the content and site as possible. No paywalls, no pop-ups, no ads eating up all your bandwidth. Someday someone will force us to add API tokens, but we've even avoided that up until now!
 
 **We are against intrusive advertising.** This is not a business. It is a project for the community. The goal is not to make money, beyond covering costs. Anything we do promote on the site should be something we genuinely think people using it will appreciate, and they shouldn't see those recommendations unless they seek them out.
 
