@@ -1,3 +1,5 @@
+![Web status](https://img.shields.io/website?down_message=Down&label=Open5e%20Site&up_message=Up&url=https%3A%2F%2Fopen5e.com) ![API status](https://img.shields.io/website?down_message=Down&label=Open5e%20API&up_message=Up&url=https%3A%2F%2Fapi.open5e.com)
+
 ## Welcome to the Open5e Community
 
 Open5e is a community-driven project focused on making D&D accessible, open, and fun. We welcome any and all contributions! 
