@@ -26,7 +26,7 @@ Take a look around at issues in areas you're comfortable with, hop on the discor
 When you're ready to submit an issue, we do all PRs against `staging` branches, which auto-deploy to test environments. We make regular cuts over to production once we're comfortable with what's there.
 
 
-## Our Priciples
+## Our Principles
 
 **Open5e is Open.** Everything we create should be available for others to use as they see fit. To that end, we should only include content that can be licensed for commercial use, or that we own. Our licenses should be similarly open, pulling from copyleft and open source movements.
 
