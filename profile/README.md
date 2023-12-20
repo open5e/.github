@@ -10,6 +10,7 @@ The best way to get involved is to [join our discord](https://discord.gg/9RNE2rY
 
 You can also check out our [current roadmap](https://github.com/orgs/open5e/projects/5), which has our high-level goals laid out.
 
+Here is an ongoing [list of content](https://github.com/orgs/open5e/projects/7) we'd love to add to the site. Feel free to offer additional ideas.
 
 ## Contribution Guidelines
 
